@@ -13,4 +13,4 @@ Project idea: https://docs.google.com/document/d/1vnDHWM8fVGRpZmxwylgtVtkC8OpMLK
 
 Project milestone 3 submission: https://drive.google.com/file/d/15c4xY-bNc_I8YPzcp1yto8CpcRmzipUZ/view?usp=sharing
 
-Project video: https://drive.google.com/file/d/1rIYEYfu-jg8PIdY-ZVpfbOPJGwoYXgpZ/view?usp=sharing
+Project video: https://youtu.be/3CsEJuicw48
