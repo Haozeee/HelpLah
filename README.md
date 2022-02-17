@@ -12,8 +12,8 @@ We have created an android app using Android Studio that serves as a centralised
 
 You can find more information about our project in the links below:
 
-Project idea: https://docs.google.com/document/d/1vnDHWM8fVGRpZmxwylgtVtkC8OpMLKbbjqLIsawDjK8/edit?usp=sharing
+Project conception: https://docs.google.com/document/d/1vnDHWM8fVGRpZmxwylgtVtkC8OpMLKbbjqLIsawDjK8/edit?usp=sharing
 
-Project milestone 3 submission: https://drive.google.com/file/d/15c4xY-bNc_I8YPzcp1yto8CpcRmzipUZ/view?usp=sharing
+Project features and summary: https://drive.google.com/file/d/15c4xY-bNc_I8YPzcp1yto8CpcRmzipUZ/view?usp=sharing
 
 Project video: https://youtu.be/3CsEJuicw48
