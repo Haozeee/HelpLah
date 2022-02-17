@@ -1,5 +1,5 @@
 # HelpLah
-Today, when someone is looking for various providers of maintenance services such as cleaning services or a plumber or air-conditioning servicing, they have 2 alternatives to go about this.
+Today, when someone is looking for various providers of maintenance services such as cleaning services or a plumber or air-conditioning servicing, they usually take one of two ways to go about this.
 
 The first of which is to ask friends and families for any recommendations. The second is to scour through the yellow pages or Facebook groups and forums to look for any providers. The problem with the first option is the lack of choice. You just have to trust that the providers your friends and families engage with are reliable and charge a fair price. The problem with the latter is that even though you may often be able to find more choices, it is difficult for a user to judge which is good and which is bad due to the lack of other customer’s feedback. It is also time-consuming to have to individually call each of these providers to enquire about their pricing and availability. Also, you are sure that everyone uses these services from time to time, so why isn’t there an easier way to go about this?
 
